@@ -71,6 +71,29 @@ cm_display.plot()
 ```
 
 ## Output:
+Placement Data:
+![image](https://github.com/user-attachments/assets/9cdd5a76-650b-4b85-98bc-af94831ce849)
+Salary Data:
+![image](https://github.com/user-attachments/assets/a60952da-254c-49ed-b85a-38c27f943637)
+Checking the null factor:
+![image](https://github.com/user-attachments/assets/fcd07b64-3a22-4bc5-9c3f-6e058b894118)
+Data Dulpicate:
+![image](https://github.com/user-attachments/assets/2ed3ec6e-1f13-4df0-af25-69615df10f1a)
+Print data:
+![image](https://github.com/user-attachments/assets/2ed55e86-29e1-4848-8097-6920e3b90f37)
+Data Status:
+![image](https://github.com/user-attachments/assets/6551023c-6b9b-4974-a147-b799553b76bc)
+Y_Predicition array:
+![image](https://github.com/user-attachments/assets/591e82e1-5f68-4341-8479-d05b9f203a9b)
+Accuracy Value:
+![image](https://github.com/user-attachments/assets/fffac4cd-f8de-4ec4-bd1e-ac566baffdd9)
+Confusion array:
+![image](https://github.com/user-attachments/assets/069a5921-64a9-4861-bec1-ea6c68dcb127)
+Classification Report:
+![image](https://github.com/user-attachments/assets/f084bad9-ca8c-476e-82fb-cb36636e1853)
+Prediction of LR:
+![image](https://github.com/user-attachments/assets/e20295a6-bdea-43fb-842b-6269c9807ad3)
+
 ![image](https://github.com/user-attachments/assets/98c11439-eb80-477b-bcad-2e12646b1712)
 ![image](https://github.com/user-attachments/assets/0c532d41-ddc2-4a50-bfa5-8394dc54678f)
 
